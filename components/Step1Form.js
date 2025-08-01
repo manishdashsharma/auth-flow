@@ -64,7 +64,7 @@ export default function Step1Form({ initialData = {}, onSubmit, loading = false 
     >
       <div className="text-center mb-8">
         <h2 className="text-2xl font-bold text-gray-900 mb-2">Basic Information</h2>
-        <p className="text-gray-600">Let's start with your personal details</p>
+        <p className="text-gray-600">Let&apos;s start with your personal details</p>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">

@@ -223,7 +223,7 @@ export default function Dashboard() {
               🎉 Congratulations!
             </h3>
             <p className="text-gray-600 mb-6">
-              Your profile setup is complete. You're all set to explore everything Rightsteps has to offer.
+              Your profile setup is complete. You&apos;re all set to explore everything Rightsteps has to offer.
             </p>
             <div className="flex justify-center space-x-4">
               <button className="px-6 py-3 bg-emerald-600 text-white rounded-lg hover:bg-emerald-700 transition-colors">
